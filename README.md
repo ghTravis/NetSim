@@ -21,7 +21,7 @@ You must run all the components in a particular order to establish the connectio
 ```
 python channel.py
 python receiver.py
-python transmitter.py <number_of_packets_to_send> <
+python transmitter.py <number_of_packets_to_send_per_send_rate> <send_rate>
 ```
 
 #### The Transmitter
