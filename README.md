@@ -96,7 +96,7 @@ noise_percent_loss = 0
 
 ## Built With
 
-* [Python](https://python.org) - The web framework used
+* [Python](https://python.org) - The programming language used
 
 ## Contributing
 
